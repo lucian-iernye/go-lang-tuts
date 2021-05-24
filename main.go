@@ -43,6 +43,4 @@ func main() {
 
 	fmt.Println(score, score2, score3)
 
-
-
 }
